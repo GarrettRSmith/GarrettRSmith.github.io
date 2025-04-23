@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "qgis.html",
+    "href": "qgis.html",
+    "title": "GEOspatial Tutorials",
+    "section": "",
+    "text": "QGIS Pro tutorials will go here…."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -7,10 +14,17 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "GarrettRSmith.github.io",
+    "objectID": "arcgispro.html",
+    "href": "arcgispro.html",
+    "title": "GEOspatial Tutorials",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "ArcGIS Pro tutorials will go here…."
+  },
+  {
+    "objectID": "rstudio.html",
+    "href": "rstudio.html",
+    "title": "GEOspatial Tutorials",
+    "section": "",
+    "text": "R Studio tutorials will go here…."
   }
 ]
