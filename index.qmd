@@ -1,9 +1,11 @@
 ---
-title: "Geospatial Tutorials"
+image: images/SW_map.png
+toc: false
+about:
+  template: marquee
+  image-shape: rectangle
+  links:
+   - icon: envelope-at
+     href: mailto:garrettsmith@arizona.edu
 ---
 
-Geospatial tutorials will be available here...
-
-```{r}
-1 + 1
-```
