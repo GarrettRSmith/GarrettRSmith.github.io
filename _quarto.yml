@@ -5,6 +5,9 @@ project:
 website:
   title: "GEOspatial Tutorials"
   navbar:
+    background: light
+    foreground: dark
+    search: false
     left:
       - href: index.qmd
         text: Home
@@ -20,7 +23,7 @@ website:
 
 format:
   html:
-    theme: simplex
+    theme: flatty
     css: styles.css
     toc: true
     page-layout: full
