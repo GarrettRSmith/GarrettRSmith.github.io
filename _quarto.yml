@@ -14,6 +14,9 @@ website:
         text: QGIS
       - href: rstudio.qmd
         text: R
+    right:  
+      - icon: envelope-at
+        href: mailto:garrettsmith@arizona.edu
 
 format:
   html:
