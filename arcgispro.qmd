@@ -1,5 +1,5 @@
 ---
-image: images/SW_DEM.png
+image: images/SW_Hillshade.png
 toc: false
 about:
   template: trestles

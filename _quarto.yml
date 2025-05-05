@@ -4,10 +4,12 @@ project:
 
 website:
   title: "GEOspatial Tutorials"
+  search: 
+   location: navbar
+   type: textbox
   navbar:
     background: light
     foreground: dark
-    search: false
     left:
       - href: index.qmd
         text: Home

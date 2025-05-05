@@ -1,8 +1,8 @@
 ---
-image: images/SW_map.png
+image: images/SW_fire.png
 toc: false
 about:
-  template: broadside
+  template: trestles
 ---
 
 QGIS Pro tutorials will go here....
