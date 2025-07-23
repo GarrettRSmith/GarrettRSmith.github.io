@@ -5,4 +5,24 @@ about:
   template: trestles
 ---
 
-ArcGIS Pro tutorials will go here....
+### **Esri ArcGIS Pro**
+
+ArcGIS Pro is an Esri desktop mapping and analysis software designed to help users work with geographic data and create meaningful maps. It also works seamlessly with Esri’s other GIS-based products. ArcGIS Pro includes a wide range of analysis tools that help users understand geographic relationships and identify spatial patterns in their data. ArcGIS Pro serves as both a powerful research tool and an effective teaching platform and users across a wide range of fields —including geography, environmental studies, urban planning, history, and public health—use it to explore geographic questions and communicate their findings through compelling maps and visualizations.
+
+ArcGIS Pro is available at no cost to University of Arizona faculty, staff, and students..
+
+Below you will find a number of basic tutorials related to ArcGIS Pro that are meant to serve as a quick start guide to using the software. Please note that tutorials one and two are meant to be completed in a sequence.
+
+Tutorial 0: Downloading ArcGIS Pro
+
+#### Vector Data
+
+Tutorial 1: Opening ArcGIS Pro and Starting a Project
+
+Tutorial 2: Data Wrangling
+
+Tutorial 3: Creating a Basic Map
+
+#### Raster Data
+
+Tutorial 4: Basics of Raster Data
