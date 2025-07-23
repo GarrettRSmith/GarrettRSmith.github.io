@@ -13,15 +13,15 @@ ArcGIS Pro is available at no cost to University of Arizona faculty, staff, and 
 
 Below you will find a number of basic tutorials related to ArcGIS Pro that are meant to serve as a quick start guide to using the software. Please note that tutorials one and two are meant to be completed in a sequence.
 
-Tutorial 0: Downloading ArcGIS Pro
+[Tutorial 0: Downloading ArcGIS Pro](https://raw.githubusercontent.com/GarrettRSmith/GarrettRSmith.github.io/main/pdfs/UAL_ArcGIS_Downloading.pdf)
 
 #### Vector Data
 
-Tutorial 1: Opening ArcGIS Pro and Starting a Project
+[Tutorial 1: Opening ArcGIS Pro and Starting a Project](https://raw.githubusercontent.com/GarrettRSmith/GarrettRSmith.github.io/main/pdfs/UAL_ArcGIS_Starting.pdf)
 
-Tutorial 2: Data Wrangling
+[Tutorial 2: Data Wrangling](https://raw.githubusercontent.com/GarrettRSmith/GarrettRSmith.github.io/main/pdfs/UAL_ArcGIS_Wrangling.pdf)
 
-Tutorial 3: Creating a Basic Map
+[Tutorial 3: Creating a Basic Map](https://raw.githubusercontent.com/GarrettRSmith/GarrettRSmith.github.io/main/pdfs/UAL_ArcGIS_Mapping.pdf)
 
 #### Raster Data
 
