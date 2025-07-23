@@ -5,4 +5,24 @@ about:
   template: trestles
 ---
 
-QGIS Pro tutorials will go here....
+#### QGIS
+
+QGIS (Quantum Geographic Information System) is a free, open-source desktop application for creating, editing, visualizing, and analyzing geospatial data. QGIS provides GIS functionality that is comparable to commercial alternatives. QGIS can be used to perform spatial analysis and create visually appealing maps. QGIS has an extensive set of freely available plugins developed by a community of QGIS users. QGIS serves as an excellent learning platform for understanding fundamental GIS concepts due to the fact that it is free to download.
+
+QGIS works on Windows, Mac, and Linux is available at no cost to anyone.
+
+Below you will find a number of basic tutorials related to QGIS that are meant to serve as a quick start guide to using the software. Please note that tutorials one and two are meant to be completed in a sequence.
+
+Tutorial 0: Downloading QGIS
+
+Vector Data
+
+Tutorial 1: Opening QGIS and Starting a Project
+
+Tutorial 2: Data Wrangling
+
+Tutorial 3: Creating a Basic Map
+
+Raster Data
+
+Tutorial 4: Basics of Raster Data

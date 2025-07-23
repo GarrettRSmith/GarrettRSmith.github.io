@@ -4,7 +4,14 @@
     "href": "qgis.html",
     "title": "GEOspatial Tutorials",
     "section": "",
-    "text": "QGIS Pro tutorials will go here…."
+    "text": "QGIS\nQGIS (Quantum Geographic Information System) is a free, open-source desktop application for creating, editing, visualizing, and analyzing geospatial data. QGIS provides GIS functionality that is comparable to commercial alternatives. QGIS can be used to perform spatial analysis and create visually appealing maps. QGIS has an extensive set of freely available plugins developed by a community of QGIS users. QGIS serves as an excellent learning platform for understanding fundamental GIS concepts due to the fact that it is free to download.\nQGIS works on Windows, Mac, and Linux is available at no cost to anyone.\nBelow you will find a number of basic tutorials related to QGIS that are meant to serve as a quick start guide to using the software. Please note that tutorials one and two are meant to be completed in a sequence.\nTutorial 0: Downloading QGIS\nVector Data\nTutorial 1: Opening QGIS and Starting a Project\nTutorial 2: Data Wrangling\nTutorial 3: Creating a Basic Map\nRaster Data\nTutorial 4: Basics of Raster Data"
+  },
+  {
+    "objectID": "arcgispro.html",
+    "href": "arcgispro.html",
+    "title": "GEOspatial Tutorials",
+    "section": "",
+    "text": "Esri ArcGIS Pro\nArcGIS Pro is an Esri desktop mapping and analysis software designed to help users work with geographic data and create meaningful maps. It also works seamlessly with Esri’s other GIS-based products. ArcGIS Pro includes a wide range of analysis tools that help users understand geographic relationships and identify spatial patterns in their data. ArcGIS Pro serves as both a powerful research tool and an effective teaching platform and users across a wide range of fields —including geography, environmental studies, urban planning, history, and public health—use it to explore geographic questions and communicate their findings through compelling maps and visualizations.\nArcGIS Pro only works on Windows computers and is available at no cost to University of Arizona faculty, staff, and students.\nBelow you will find a number of basic tutorials related to ArcGIS Pro that are meant to serve as a quick start guide to using the software. Please note that tutorials one and two are meant to be completed in a sequence.\nTutorial 0: Downloading ArcGIS Pro\nVector Data\nTutorial 1: Opening ArcGIS Pro and Starting a Project\nTutorial 2: Data Wrangling\nTutorial 3: Creating a Basic Map\nRaster Data\nTutorial 4: Basics of Raster Data"
   },
   {
     "objectID": "about.html",
@@ -12,13 +19,6 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "arcgispro.html",
-    "href": "arcgispro.html",
-    "title": "GEOspatial Tutorials",
-    "section": "",
-    "text": "Esri ArcGIS Pro\nArcGIS Pro is an Esri desktop mapping and analysis software designed to help users work with geographic data and create meaningful maps. It also works seamlessly with Esri’s other GIS-based products. ArcGIS Pro includes a wide range of analysis tools that help users understand geographic relationships and identify spatial patterns in their data. ArcGIS Pro serves as both a powerful research tool and an effective teaching platform and users across a wide range of fields —including geography, environmental studies, urban planning, history, and public health—use it to explore geographic questions and communicate their findings through compelling maps and visualizations.\nArcGIS Pro is available at no cost to University of Arizona faculty, staff, and students..\nBelow you will find a number of basic tutorials related to ArcGIS Pro that are meant to serve as a quick start guide to using the software. Please note that tutorials one and two are meant to be completed in a sequence.\nTutorial 0: Downloading ArcGIS Pro\n\nVector Data\nTutorial 1: Opening ArcGIS Pro and Starting a Project\nTutorial 2: Data Wrangling\nTutorial 3: Creating a Basic Map\n\n\nRaster Data\nTutorial 4: Basics of Raster Data"
   },
   {
     "objectID": "rstudio.html",
