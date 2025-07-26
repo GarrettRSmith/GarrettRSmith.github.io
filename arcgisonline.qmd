@@ -1,5 +1,5 @@
 ---
-image: images/SW_Index.png
+image: images/SW_Aspect.png
 toc: false
 about:
   template: trestles
