@@ -11,22 +11,18 @@ R is a free and open-source programming language and software environment that i
 
 R and RStudio works on Windows, Mac, and Linux is available at no cost to anyone.
 
-Below you will find a number of basic tutorials related to geospatial data in R that are meant to serve as a quick start guide to using R and RStudio Please note that tutorials one, two, and three are meant to be completed in a sequence.
-
 Having a basic understanding of R would prove helpful in completing these tutorials. Please see the library's Learn R tutorials developed by Dr. Jeff Oliver below:\
 \
 [Learn R](https://jcoliver.github.io/learn-r/)
 
-Tutorial 0: Logging Into ArcGIS Online
+Below you will find a number of basic tutorials related to geospatial data in R that are meant to serve as a quick start guide to using R and RStudio Please note that tutorials one, two, and three are meant to be completed in a sequence.
+
+Tutorial 0: Downloading R and RStuido
 
 Vector Data
 
-Tutorial 1: Logging into ArcGIS Online and Starting a Project
+Tutorial 1: Starting a Project
 
 Tutorial 2: Data Wrangling
 
 Tutorial 3: Creating a Basic Map
-
-Survey123
-
-Tutorial 4: Creating a Survey Using Survey123
