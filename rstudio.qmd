@@ -26,3 +26,7 @@ Tutorial 1: Starting a Project
 Tutorial 2: Data Wrangling
 
 Tutorial 3: Creating a Basic Map
+
+Raster Data
+
+[Raster Data: Learn R Intro to Geospatial data in R](https://jcoliver.github.io/learn-r/019-intro-geo.html)
