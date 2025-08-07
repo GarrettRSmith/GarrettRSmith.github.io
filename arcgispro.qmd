@@ -25,4 +25,4 @@ Vector Data
 
 Raster Data
 
-Tutorial 4: Basics of Raster Data
+[Tutorial 4: Basics of Raster Data](https://raw.githubusercontent.com/GarrettRSmith/GarrettRSmith.github.io/main/pdfs/UAL_ArcGIS_Raster.pdf)
