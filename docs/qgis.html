@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -34,10 +34,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-5d07a1a080f9e5aa904489c5899f5058.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -130,6 +130,7 @@ ul.task-list li input[type="checkbox"] {
   <div class="about-entity">
     <img src="images/SW_fire.png" class="about-image
   rounded " style="width: 20em;">
+<header id="title-block-header" class="quarto-title-block"></header>
   </div>
   <div class="about-contents"><main class="content column-page" id="quarto-document-content">
 <section id="qgis" class="level4">
@@ -137,13 +138,13 @@ ul.task-list li input[type="checkbox"] {
 <p>QGIS (Quantum Geographic Information System) is a free, open-source desktop application for creating, editing, visualizing, and analyzing geospatial data. QGIS provides GIS functionality that is comparable to commercial alternatives. QGIS can be used to perform spatial analysis and create visually appealing maps. QGIS has an extensive set of freely available plugins developed by a community of QGIS users. QGIS serves as an excellent learning platform for understanding fundamental GIS concepts due to the fact that it is free to download.</p>
 <p>QGIS works on Windows, Mac, and Linux is available at no cost to anyone.</p>
 <p>Below you will find a number of basic tutorials related to QGIS that are meant to serve as a quick start guide to using the software. Please note that tutorials one and two are meant to be completed in a sequence.</p>
-<p>Tutorial 0: Downloading QGIS</p>
+<p><a href="https://raw.githubusercontent.com/GarrettRSmith/GarrettRSmith.github.io/main/pdfs/UAL_QGIS_Downloading.pdf">Tutorial 0: Downloading QGIS</a></p>
 <p>Vector Data</p>
-<p>Tutorial 1: Opening QGIS and Starting a Project</p>
-<p>Tutorial 2: Data Wrangling</p>
-<p>Tutorial 3: Creating a Basic Map</p>
+<p><a href="https://raw.githubusercontent.com/GarrettRSmith/GarrettRSmith.github.io/main/pdfs/UAL_QGIS_Starting.pdf">Tutorial 1: Opening QGIS and Starting a Project</a></p>
+<p><a href="https://raw.githubusercontent.com/GarrettRSmith/GarrettRSmith.github.io/main/pdfs/UAL_QGIS_Wrangling.pdf">Tutorial 2: Data Wrangling</a></p>
+<p><a href="https://raw.githubusercontent.com/GarrettRSmith/GarrettRSmith.github.io/main/pdfs/UAL_QGIS_Mapping.pdf">Tutorial 3: Creating a Basic Map</a></p>
 <p>Raster Data</p>
-<p>Tutorial 4: Basics of Raster Data</p>
+<p><a href="https://raw.githubusercontent.com/GarrettRSmith/GarrettRSmith.github.io/main/pdfs/UAL_QGIS_Raster.pdf">Tutorial 4: Basics of Raster Data</a></p>
 
 
 </section>
@@ -225,8 +226,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -337,7 +336,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {

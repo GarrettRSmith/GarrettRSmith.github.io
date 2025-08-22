@@ -17,15 +17,15 @@ Having a basic understanding of R would prove helpful in completing these tutori
 
 Below you will find a number of basic tutorials related to geospatial data in R that are meant to serve as a quick start guide to using R and RStudio Please note that tutorials one, two, and three are meant to be completed in a sequence.
 
-Tutorial 0: Downloading R and RStuido
+[Tutorial 0: Downloading R and RStuido](https://raw.githubusercontent.com/GarrettRSmith/GarrettRSmith.github.io/main/pdfs/UAL_R_Downloading.pdf)
 
 Vector Data
 
-Tutorial 1: Starting a Project
+[Tutorial 1: Starting a Project](https://raw.githubusercontent.com/GarrettRSmith/GarrettRSmith.github.io/main/pdfs/UAL_R_Starting.pdf)
 
-Tutorial 2: Data Wrangling
+[Tutorial 2: Data Wrangling](https://raw.githubusercontent.com/GarrettRSmith/GarrettRSmith.github.io/main/pdfs/UAL_R_Wrangling.pdf)
 
-Tutorial 3: Creating a Basic Map
+[Tutorial 3: Creating a Basic Map](https://raw.githubusercontent.com/GarrettRSmith/GarrettRSmith.github.io/main/pdfs/UAL_R_Mapping.pdf)
 
 Raster Data
 

@@ -13,16 +13,16 @@ ArcGIS Online works on most internet browsers and is available at no cost to Uni
 
 Below you will find a number of basic tutorials related to ArcGIS Online that are meant to serve as a quick start guide to using the software. Please note that tutorials one, two, and three are meant to be completed in a sequence.
 
-Tutorial 0: Logging Into ArcGIS Online
+[Tutorial 0: Logging Into ArcGIS Online](https://raw.githubusercontent.com/GarrettRSmith/GarrettRSmith.github.io/main/pdfs/UAL_AGOL_LoggingIn.pdf)
 
 Vector Data
 
-Tutorial 1: Logging into ArcGIS Online and Starting a Project
+[Tutorial 1: Starting a Project](https://raw.githubusercontent.com/GarrettRSmith/GarrettRSmith.github.io/main/pdfs/UAL_AGOL_Starting.pdf)
 
-Tutorial 2: Data Wrangling
+[Tutorial 2: Data Wrangling](https://raw.githubusercontent.com/GarrettRSmith/GarrettRSmith.github.io/main/pdfs/UAL_AGOL_Wrangling.pdf)
 
-Tutorial 3: Creating a Basic Map
+[Tutorial 3: Creating a Basic Map](https://raw.githubusercontent.com/GarrettRSmith/GarrettRSmith.github.io/main/pdfs/UAL_AGOL_Mapping.pdf)
 
 Survey123
 
-Tutorial 4: Creating a Survey Using Survey123
+[Tutorial 4: Creating a Survey Using Survey123](https://raw.githubusercontent.com/GarrettRSmith/GarrettRSmith.github.io/main/pdfs/UAL_AGOL_Survey123.pdf)
