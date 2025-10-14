@@ -26,3 +26,7 @@ Vector Data
 Raster Data
 
 [Tutorial 4: Basics of Raster Data](https://raw.githubusercontent.com/GarrettRSmith/GarrettRSmith.github.io/main/pdfs/UAL_QGIS_Raster.pdf)
+
+Workshop Data
+
+[Workshop: Introduction to GIS](https://raw.githubusercontent.com/GarrettRSmith/GarrettRSmith.github.io/main/gis_data/UAL_GISIntroData.zip)
