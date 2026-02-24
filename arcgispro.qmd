@@ -31,4 +31,4 @@ Workshop Data
 
 [Workshop: Introduction to GIS](https://raw.githubusercontent.com/GarrettRSmith/GarrettRSmith.github.io/main/gis_data/UAL_GISIntroData.zip)
 
-[Workshop: DEM](https://raw.githubusercontent.com/GarrettRSmith/GarrettRSmith.github.io/main/gis_data/UAL_DemData.zip)
+[Workshop: DEM](https://raw.githubusercontent.com/GarrettRSmith/GarrettRSmith.github.io/main/gis_data/UAL_DEMData.zip)
